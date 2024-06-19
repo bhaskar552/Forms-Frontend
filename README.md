@@ -26,7 +26,7 @@ This is the desktop application for the Forms App. It is built with Visual Basic
 - `Ctrl + D`: Delete Submission (on View Submissions page)
 
 ## Running the App
-
+1. Before Starting the App make sure the backend is running locally in the system. The Backend can be found here https://github.com/bhaskar552/Forms-Backend
 1. Open the solution file in Visual Studio.
 2. Build and run the application.
 
