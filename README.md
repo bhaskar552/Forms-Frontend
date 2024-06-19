@@ -59,7 +59,7 @@ Viewing Submissions
 Click the "View Submissions" button or use the shortcut Ctrl + V.
 The ViewSubmissionsForm opens, displaying the first submission by default.
 Navigate through the submissions using the "Previous" (Ctrl + P) and "Next" (Ctrl + N) buttons.
-Edit a submission by clicking the "Submit" button after editing any records (Ctrl + E). A MessageBox confirms successful editing.
+Edit a submission by clicking the "Submit" button after editing any records (Ctrl + S). A MessageBox confirms successful editing.
 Delete a submission by clicking the "Delete" button (Ctrl + D). A MessageBox confirms successful deletion.
 
 
